@@ -1,7 +1,7 @@
 # Spellbreak Subreddit-CSS
 This subreddit stylesheet was initially designed for the Spellbreak subreddit. I'm a fan of their game so far and figured I would reach out to them with a cool fun fan-creation. Their community manager seemed hesitant to outsource this to their community, but I made it anyways. Feel free to use this Stylesheet for any subreddit, don't worry about credit or anything like that.
 
-[Click to see example subreddit with this text set up](old.reddit.com/r/spellbreakCSStest Fake Spellbreak Subreddit)
+[Click to see example subreddit with this text set up](https://old.reddit.com/r/spellbreakCSStest "Fake Spellbreak Subreddit")
 
 ### Notes for Use
 These are some things you'll need to change to make this stylesheet work for your sub:
