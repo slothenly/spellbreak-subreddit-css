@@ -1,0 +1,97 @@
+/* #### HEADER #### */
+#header-img {
+    display: none;
+} 
+
+#header { 
+    background: url(%%top-banner%%);
+    display: flex; 
+    height: 200px;
+    border: none;
+}
+
+#header-bottom-left { 
+    align-self: flex-end;
+}
+
+#header .tabmenu li a{
+    background-color: #B6B6B6;
+    padding: 2px 4px;
+    border-radius: 4px 4px 2px 2px;
+}
+
+#header .tabmenu li a:hover, #header .tabmenu .selected a {
+    background-color: #F2F2F2;
+    color: #D1302E;
+    border: none;
+    padding: 4px 6px;
+}
+
+.redditname a{
+    color: #F2F2F2;
+}
+
+/* #### MAIN BODY #### */
+.thumbnail.default {
+    background: url(%%text-post-icon%%);
+    height: 70px;
+}
+
+.thumbnail.self {
+    background: url(%%text-post-icon%%);
+    height: 70px;
+}
+
+body {
+    background-color: #B6B6B6;
+}
+
+.thing {
+    background-color: #F2F2F2;
+    border-radius: 3px;
+    margin: 8px 3px; 
+    padding: 8px;
+}
+
+.thing .title { 
+    color: #293DA3;
+}
+
+.expando .usertext-body .md{
+    background-color: #FFF;
+    padding: .75em 0;
+}
+
+ /* #### SIDEBAR #### */
+.side {
+    background-color: #A7A7A7;
+    padding: 1em;
+}
+
+.icon-menu li a{
+    background-color: #A7A7A7;
+}
+
+.md-container p { 
+    padding: 0 1em;
+}
+
+.morelink a {
+    background-color: #FFF;
+    border: none;
+color: 
+}
+
+.nub {
+    display: none;
+}
+
+.side .md {
+    background-color: #D5D5D5;
+    border-radius: 3px; 
+    padding: 1em 0;
+}
+
+.side .md a{
+    color: #2547D6;
+}
