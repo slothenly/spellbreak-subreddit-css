@@ -1,6 +1,10 @@
 /* #### HEADER #### */
-#header-img {
-    display: none;
+#header #header-img { 
+   display: none; 
+}
+
+header-img.default-header{
+   display: none; 
 } 
 
 #header { 
