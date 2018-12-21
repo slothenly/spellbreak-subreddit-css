@@ -10,4 +10,4 @@ These are some things you'll need to change to make this stylesheet work for you
 2. Upload the banner image you want to use with the name "top-banner" (case sensitive)
 3. Upload the text post icon you want with the name "text-post-icon" (case sensitive)
 
-If you have any questions, feel free to reach out to me on Reddit (/u/gearphreak). Enjoy!
+If you have any questions, feel free to reach out to me on Reddit at /u/gearphreak. Enjoy!
